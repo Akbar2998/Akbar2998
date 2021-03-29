@@ -1,4 +1,4 @@
-### Assalom Alaykum 👋, AkbaR Makhmanazarov
+### Assalom Alaykum 👋
 #### From zero to hero
 Skills: VUE JS / C# (Winforms, WPF) / C++ / Python 
 - 🔭 I’m currently studying at National University of Uzbekistan 
