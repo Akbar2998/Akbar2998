@@ -1,6 +1,6 @@
 ### Assalomu Alaykum 👋
 #### From zero to hero
-Skills: VUE JS / C# (Winforms, WPF) / C++ / Python 
+Skills: Unity / C# (Winforms, WPF) / C++ / Python 
 - 🔭 I’m currently studying at National University of Uzbekistan 
 - 🌱 I’m currently learning AI Python 
 - 📫 How to reach me: Telegram ===> @zarasoft 
