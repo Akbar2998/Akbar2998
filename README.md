@@ -1,8 +1,8 @@
 ### Assalomu Alaykum 👋
 #### From zero to hero
 Skills: Unity / C# (Winforms, WPF) / C++ / Python 
-- 🔭 I’m currently studying at National University of Uzbekistan 
-- 🌱 I’m currently learning AI Python 
+- 🔭 I’m currently studying at University of Szeged
+- 🔭 I’m currently learning Machine Learning
 - 📫 How to reach me: Telegram ===> @zarasoft 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Akbar2998&show_icons=true)
