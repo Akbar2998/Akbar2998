@@ -3,7 +3,7 @@
 <h3 align="center">Masters Computer Science student at SZTE</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akbar2998&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akbar2998&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akbar2998&theme=nightowl)
 
 - 🔭 I’m currently working on **C#**
 
