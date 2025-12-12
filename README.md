@@ -2,7 +2,7 @@
 
 # 👋 Welcome to my Digital Universe!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi%2C+I'm+Akbar+Makhmanazarov;Computer+Science+Master's+Student;Machine+Learning+%7C+Software+Developer+%7C+Tech+Explorer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi%2C+I'm+Akbar+Makhmanazarov;Computer+Science+Master's+Student;Machine+Learning+%7C+Software+Developer+%7C+Tech+Explorer" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zarasoft)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akbar2998)
